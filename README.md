@@ -1,6 +1,6 @@
 # OgreSlayer
 Interactive text adventure game where your objective is to save the princess from the mighty ogre!
-Run the game from adventures/AdventureTextUI.
+Run the game from adventure/ui/AdventureTextUI.
 ## Commands
 - go "name of exit"
 - rest
