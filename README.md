@@ -31,3 +31,5 @@ Interactive text adventure game where your objective is to save the princess fro
 - Base of the mountain
 - Summit
 - Cave
+
+Run game from adventures/AdventureTextUI
