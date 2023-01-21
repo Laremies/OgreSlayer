@@ -5,12 +5,7 @@ import scala.collection.mutable
 
 /** The class `Adventure` represents text adventure games. An adventure consists of a player and
   * a number of areas that make up the game world. It provides methods for playing the game one
-  * turn at a time and for checking the state of the game.
-  *
-  * N.B. This version of the class has a lot of "hard-coded" information which pertain to a very
-  * specific adventure game that involves a small trip through a twisted forest. All newly created
-  * instances of class `Adventure` are identical to each other. To create other kinds of adventure
-  * games, you will need to modify or replace the source code of this class. */
+  * turn at a time and for checking the state of the game. */
 class Adventure {
 
   /** The title of the adventure game. */
